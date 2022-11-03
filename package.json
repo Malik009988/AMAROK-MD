@@ -1,14 +1,14 @@
 {
-  "name": "amarok-md",
+  "name": "shami-md",
   "version": "2.0.0",
-  "description": "Amarok-md powered by cyberxkid.",
+  "description": "shami-md powered by malik shami.",
   "main": "./index.js",
   "scripts": {
     "start": "supervisor -s ./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Diegoson/AMAROK-MD.git"
+    "url": "git+https://github.com/Malik009988/AMAROK-MD.git"
   },
   "keywords": [
     "whatsapp",
@@ -24,8 +24,8 @@
     "whatsapp api",
     "WhatsAsena"
   ],
-  "author": "Cyberxkid",
-  "developer": "Cyberxkid",
+  "author": "Shami",
+  "developer": "Shami",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/Diegoson/AMAROK-MD/issues"
