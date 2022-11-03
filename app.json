@@ -1,9 +1,9 @@
 {
-  "name": "amarok-md",
-  "description": "amarok md powered by cyberxkid",
+  "name": "shami-md",
+  "description": "shami md powered by shami",
   "logo": "https://i.imgur.com/vwNY4lg.jpeg",
   "repository": "https://github.com/Diegoson/AMAROK-MD.git",
-  "keywords": ["Amarok","Bot","Amarok-Md"],
+  "keywords": ["Shami","Bot","Shami-Md"],
   "env": {
    "SESSION_ID": {
       "description": "session id needed add your session id here",
@@ -27,7 +27,7 @@
     "PACKNAME": {
       "description": "Sticker Packname required Example Amarok",
       "required": false,
-      "value": "𝐀𝐌𝐀𝐑𝐎𝐊"
+      "value": "𝑆𝛨𝛥𝛭𝛪"
     },
     "RMBG_KEY": {
       "description": "Remove bg api key required get it here(https://www.remove.bg/api)",
@@ -37,22 +37,22 @@
     "OWNER_NAME": {
       "description": "Add owner name",
       "required": false,
-      "value": "𝐂𝐘𝐁𝐄𝐑𝐗𝐊𝐈𝐃"
+      "value": "𝑆𝛨𝛥𝛭𝛪"
     },
     "BOT_INFO": {
      "description": "Add all name to your name",
      "required": false,
-     "value": "𝘈𝘮𝘢𝘳𝘰𝘬;𝘊𝘺𝘣𝘦𝘳𝘹𝘬𝘪𝘥;0;https://i.imgur.com/w5wr6c1.jpeg;https://chat.whatsapp.com/I3aOiLY2Ydc258VkV7p0Md"
+     "value": "Shami;Shami Malik;0;https://i.ibb.co/1MqpYnP/de9f523b83f0.jpg;https://chat.whatsapp.com/I3aOiLY2Ydc258VkV7p0Md"
     },
     "BOT_NAME": {
       "description": "Add bot name",
       "required": false,
-      "value": "𝐀𝐌𝐀𝐑𝐎𝐊"
+      "value": "𝑺 𝑯 𝑨 𝑴 𝑰"
     },
     "AUTHOR": {
       "description": "Sticker Pack AUTHOR required Example Diegoson",
       "required": false,
-      "value": "𝐂𝐘𝐁𝐄𝐑𝐗𝐊𝐈𝐃"
+      "value":"𝑺 𝑯 𝑨 𝑴 𝑰"
     },
     "ALIVE_LOGO": {
       "description": "Add your logo link to alive message",
